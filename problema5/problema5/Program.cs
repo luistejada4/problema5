@@ -21,7 +21,7 @@ namespace problema5
                 Console.WriteLine(palabra2);
             else
                 Console.WriteLine(palabra2);
-            Console.WriteLine(palabra2);
+            Console.WriteLine(palabra1);
 
             Console.ReadKey();
         }

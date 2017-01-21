@@ -18,8 +18,10 @@ namespace problema5
 
             if(palabra1[0] < palabra2[0])
                 Console.WriteLine(palabra1);
+                Console.WriteLine(palabra2);
             else
                 Console.WriteLine(palabra2);
+            Console.WriteLine(palabra2);
 
             Console.ReadKey();
         }
